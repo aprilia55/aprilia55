@@ -73,6 +73,8 @@ else:
 ```
 Setelah penggunaan menghetikan input,program memeriksa apalah `max_value` masih bernilai `-inf`,yang berarti tidak ada bilangan yang dimaksudkan (selain `0`).Jika demikian,Pesan "Tidak ada bilangan yang dimaksukkan." akan ditampilkan.Jika ada bilangan yang dimaksudkan,program akan mencetak bilangan terbesar yang ditemukan. 
 
+![foto](https://github.com/aprilia55/praktikum-5/issues/3#issue-2621530652)
+
 
 
 
